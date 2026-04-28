@@ -1,1 +1,1 @@
-# C841-Legal-Issues-in-Information-Security-WGU-IHP4-
+# WGU C841-Legal-Issues-in-Information-Security
